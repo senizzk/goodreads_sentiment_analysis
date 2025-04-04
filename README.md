@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/wordcloud_fantasy.png" width="600"/>
+  <img src="Images/wordcloud_fantasy.png"/>
 </p>
 
 # 📚 Sentiment Analysis of Goodreads Choice Awards Book Data (2021–2023)
