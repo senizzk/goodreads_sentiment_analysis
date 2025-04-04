@@ -1,0 +1,14 @@
+# Ignore data files
+data/
+*.csv
+*.zip
+*.json
+
+# Ignore models and outputs
+models/
+*.pkl
+*.h5
+
+# Ignore Jupyter checkpoints and system files
+.ipynb_checkpoints/
+.DS_Store
