@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/wordcloud_fantasy.png"/>
+  <img src="Images/wordcloud_fantasy.png"S/>
 </p>
 
 # 📚 Sentiment Analysis of Goodreads Choice Awards Book Data (2021–2023)
@@ -8,7 +8,7 @@
 **Group Name:** Oscar
 
 ## 👥 Team Members
-- Seniz Kurhan  
+- Seniz Kurhan  (Data Scraping, Data Cleaning and Data Analysis-Author and Genre )
 - ***  
 - ***  
 
